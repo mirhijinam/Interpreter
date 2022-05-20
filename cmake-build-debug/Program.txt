@@ -1,0 +1,31 @@
+program
+{
+    string str1 = "abc", str2 = "cde";
+    bool k;
+    real s = 0;
+    real y, x = 10;
+    int a = 98;
+    int b = 3;
+    if ((a < 100) and (b < 7)) {
+        write(5);
+    }
+    else {
+    write(6);
+    }
+    read(y);
+    while(y > 0) {
+        while(x > 0) {
+                s = s + 1.0 / 1000;
+                write("this is s: ", s);
+                str1 = str1+str2;
+                x = x - 1;
+
+        }
+        write(y);
+        y = y-0.1;
+    }
+    y = -y + 5;
+    write(y);
+    write(str1);
+
+}

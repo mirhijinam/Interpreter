@@ -1,0 +1,16 @@
+# ninja log v5
+4	6564	1653047967353379791	CMakeFiles/Interpreter.dir/Exec.cpp.o	36b3e0f07af2ee6d
+6587	6939	1653047967733502935	Interpreter	158bdd1886729e52
+0	129	1653048069973231838	build.ninja	4c521e5d4068ee6
+8	4529	1652989280500370917	CMakeFiles/Interpreter.dir/Scanner.cpp.o	3835ac35f0928836
+7	1932	1652989895136912029	CMakeFiles/Interpreter.dir/Executer.cpp.o	20f71d3dfeed2ab8
+3	6501	1653047967283420356	CMakeFiles/Interpreter.dir/main.cpp.o	ead331ff2da0edf5
+6	6587	1653047967370810692	CMakeFiles/Interpreter.dir/Parser.cpp.o	fe608075a659e623
+0	139	1653048069973231838	build.ninja	4c521e5d4068ee6
+2	2141	1653048072117079998	CMakeFiles/Interpreter.dir/Scanner.cpp.o	3835ac35f0928836
+1	2408	1653048072371970819	CMakeFiles/Interpreter.dir/main.cpp.o	ead331ff2da0edf5
+2	2554	1653048072531380978	CMakeFiles/Interpreter.dir/Exec.cpp.o	36b3e0f07af2ee6d
+2	2655	1653048072635339137	CMakeFiles/Interpreter.dir/Parser.cpp.o	fe608075a659e623
+2655	2763	1653048072749572852	Interpreter	158bdd1886729e52
+4	1345	1653051394657915367	CMakeFiles/Interpreter.dir/Parser.cpp.o	fe608075a659e623
+1348	1476	1653051394797019980	Interpreter	158bdd1886729e52
